@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering Graduate passionate about Python and Web Development.<br><br>💻 Tech Stack: Python, Django, MySQL, HTML, CSS, Git, GitHub.<br><br>🚀 I enjoy building real-world web applications, writing clean and maintainable code, and continuously improving my technical skills through hands-on projects.<br><br>🌱 Always eager to learn, build, and grow as a software developer.<br><br><br><br>
+I'm a Computer Engineering Graduate passionate about Python and Django development. I enjoy building web applications, solving programming challenges, and continuously improving my technical skills through hands-on projects.<br><br><br>
 
 
 ## 🌐 Socials:
