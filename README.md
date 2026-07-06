@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineering Graduate passionate about Python and Django development. I enjoy building practical and user-friendly web applications while writing clean, maintainable, and efficient code.<br>💻 Backend: Python<br>⚡ Framework: Django<br>🗄️ Database: MySQL<br>🎨 Frontend: HTML, CSS<br>🔧 Tools & Version Control: Git, GitHub<br><br>🚀 I’m passionate about continuously improving my technical skills through hands-on projects and always eager to learn new technologies and best development practices.<br><br><br><br>
+I'm a Computer Engineering Graduate passionate about Python and Django development. I enjoy building practical and user-friendly web applications while writing clean, maintainable, and efficient code.<br>💻 Backend: Python<br>⚡ Framework: Django<br>🗄️ Database: MySQL<br>🎨 Frontend: HTML, CSS, Bootstrap<br>🔧 Tools & Version Control: Git, GitHub<br><br>🚀 I’m passionate about continuously improving my technical skills through hands-on projects and always eager to learn new technologies and best development practices.<br><br><br><br>
 
 
 ## 🌐 Socials:
